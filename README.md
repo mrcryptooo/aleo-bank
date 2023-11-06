@@ -1,4 +1,4 @@
-discord handle : @mrcryptoo
+discord handle: @mrcryptoo
 <!-- # 🏦 Simple Bank -->
 <img alt="workshop/simple_bank" width="1412" src="https://uploadkon.ir/uploads/de6f05_23simple-bank.png">
 
